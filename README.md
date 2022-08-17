@@ -1,8 +1,4 @@
-### Bem-vindo ao meu perfil 
-
-- 🧑🏻‍💻 Discente de Engenharia de Software
-- 🌐 Foco de estudo em tecnologias Web
-- 🧬 Em constante evolução
+### Olá! Eu sou Everton Silva 👊
 
 <div align="center">
   <a href="https://github.com/EvertonEsn">
@@ -17,7 +13,7 @@
   
 ##
  
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/dev_depre" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:everton.esn10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
