@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5250&pause=1000&color=962CF7&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+MY+NAME+is+Everton+Silva+;+I'm+19+years+old;I+study+Software+Engineering+;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5250&pause=1000&color=962CF7&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+MY+NAME+is+Everton+Silva+;+I'm+21+years+old;I+study+Software+Engineering+;Be+Welcome!)](https://git.io/typing-svg)
 
 <div align="center"> 
 
